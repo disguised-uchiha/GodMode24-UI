@@ -17,7 +17,7 @@
         <section class="h-50 bg-success">
             <!-- div for the + icon  -->
             <div class="bg-danger d-flex justify-content-end p-3">
-                +
+                <a href="./create_habit.php">+</a>
             </div>
             <!-- div for the content  -->
             <div class="d-flex justify-content-center align-items-center h-50 bg-secondary">
@@ -42,8 +42,8 @@
         <section class="h-50 bg-warning d-flex flex-column justify-content-end">
             <div class="d-flex justify-content-center bg-success m-0">
                 <ul class="d-flex justify-content-around w-75 bg-warning">
-                    <li><a href="./create_event.php">Icon1</a></li>
-                    <li>Icon2</li>
+                    <li><a href="./create_habit.php">Create_Habit</a></li>
+                    <li><a href="./rpd.php">RPD</a></li>
                     <li>Icon3</li>
                 </ul>
             </div>
